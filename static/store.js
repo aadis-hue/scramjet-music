@@ -1,6 +1,6 @@
 const store = $store(
 	{
-		url: "https://google.com",
+		url: "https://monochrome.tf",
 		wispurl:
 			_CONFIG?.wispurl ||
 			(location.protocol === "https:" ? "wss" : "ws") +
